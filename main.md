@@ -1,0 +1,13 @@
+## 기술블로그
+[http://tech.kakao.com|KAKAO기술블로그]
+[http://woowabros.github.io|우아한 형제들 기술 블로그]
+[http://engineering.vcnc.co.kr|VCNC엔지니어링 블로그]
+[http://readme.skplanet.com|SK플래닛 기술 개발 블로그]
+[http://d2.naver.com/helloworld|NAVER D2]
+[http://blog.dramancompany.com/category/develop|DRAMA&COMPANY기술 블로그]
+[https://engineering.linecorp.com/kr|LINE Engineering blog]
+[http://styleshare.github.io|스타일쉐어 기술 블로그]
+[http://tmondev.blog.me|티몬 기술 블로그]
+[https://developers.band.us|네이버밴드 개발자 센터]
+[http://tech.lezhin.com|레진 기술 블로그]
+[https://aws.amazon.com/ko/blogs/korea|Amazon Web Service 한국 블로그]
