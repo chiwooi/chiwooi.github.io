@@ -1,6 +1,6 @@
 ## 기술블로그
-[http://tech.kakao.com|KAKAO기술블로그]
-[http://woowabros.github.io|우아한 형제들 기술 블로그]
+[KAKAO기술블로그][http://tech.kakao.com]
+[http://woowabros.github.io][우아한 형제들 기술 블로그]
 [http://engineering.vcnc.co.kr|VCNC엔지니어링 블로그]
 [http://readme.skplanet.com|SK플래닛 기술 개발 블로그]
 [http://d2.naver.com/helloworld|NAVER D2]
